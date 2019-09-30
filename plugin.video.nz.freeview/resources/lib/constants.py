@@ -1,0 +1,1 @@
+M3U8_URL = 'http://i.mjh.nz/nz/tv.json'
